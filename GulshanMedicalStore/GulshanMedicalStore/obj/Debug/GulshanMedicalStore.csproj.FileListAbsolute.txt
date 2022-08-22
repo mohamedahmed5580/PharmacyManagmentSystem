@@ -1,0 +1,106 @@
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe.config
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.pdb
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Properties.Resources.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.GenerateResource.cache
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CoreCompileInputs.cache
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.exe
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.pdb
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CopyComplete
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Administrator.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_dashboard.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_AddUser.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.dll
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.xml
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csprojAssemblyReference.cache
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Login.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\Guna.UI2.dll
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_ViewUser.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_Profile.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacist.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_Dashboard.resources
+D:\Source\repo\Project\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_AddMedicine.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe.config
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.pdb
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.dll
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.dll
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.xml
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.xml
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csprojAssemblyReference.cache
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Administrator.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_AddUser.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_dashboard.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_Profile.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_ViewUser.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Login.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacist.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_AddMedicine.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_Dashboard.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Properties.Resources.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.GenerateResource.cache
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CoreCompileInputs.cache
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CopyComplete
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.exe
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.pdb
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_ViewMedicines.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_UpdateMedicine.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_MedicineValidityCheck.resources
+E:\Aptech\Project\PharmacyError\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_SellMedicine.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe.config
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.pdb
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.dll
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.dll
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.xml
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.xml
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csprojAssemblyReference.cache
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Administrator.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_AddUser.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_dashboard.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_Profile.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_ViewUser.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Login.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacist.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_AddMedicine.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_Dashboard.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_MedicineValidityCheck.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_SellMedicine.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_UpdateMedicine.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_ViewMedicines.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Properties.Resources.resources
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.GenerateResource.cache
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CoreCompileInputs.cache
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CopyComplete
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.exe
+E:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.pdb
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe.config
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.exe
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\GulshanMedicalStore.pdb
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.dll
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.xml
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csprojAssemblyReference.cache
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Administrator.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_AddUser.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_dashboard.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_Profile.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.AdministratorUC.UC_ViewUser.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Login.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacist.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_AddMedicine.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_AddMedicineDistriAndMark.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_Dashboard.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_MedicineValidityCheck.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_SellMedicine.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_UpdateMedicine.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Pharmacy.UC_P_ViewMedicines.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.Properties.Resources.resources
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.GenerateResource.cache
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CoreCompileInputs.cache
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.csproj.CopyComplete
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.exe
+D:\Aptech\Project\Pharmacy Management System\GulshanMedicalStore\GulshanMedicalStore\obj\Debug\GulshanMedicalStore.pdb
